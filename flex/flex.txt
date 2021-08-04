@@ -1,0 +1,36 @@
+flex container property :
+
+{
+
+display: flex;
+
+flex-direction: row, row-reverse, column, column-reverse
+
+flex-wrap: nowrap, wrap, wrap-reverse,
+
+justify-content(x-axis) : flex-start, flex-end, space-around, space-between, space-evenly
+
+align-items (y-axis) : stretch , flex-start, flex-end, center,
+
+align-content: flex-start, flex-end, space-around, space-between, space-evenly
+
+}
+
+
+
+flex child-property :
+
+{
+
+order:1,2,3....( order set kore dewa jai)
+
+flex-grow:1,2.....
+
+flex-shrink: 1
+
+flex-basis: starting width(200,3000.... min width jate use na kori ter jonnoi flex-basis use korte hobe )
+
+
+
+flex: flex-grow, flex-shrink,flex-basis
+

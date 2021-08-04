@@ -1,0 +1,7 @@
+display: grid
+
+grid-template-columns: 100px 100px 100px ( 3ta column create hobe er every column er height hobe 100px),auto 
+
+grid-template-rows:100px 300px 200px, auto
+
+grid-row-gap, grid-column-gap: 3px  or grid-gap:3px
